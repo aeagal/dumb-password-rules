@@ -1873,6 +1873,19 @@ Your password must:
 
 |Standard Chartered Bank|
 
+`Sterling Background Checks <https://workforce.sterlingdirect.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sterling runs background checks on potential employees. As such, they collect Social Security Numbers, home address history from the last 7 years, and other very sensitive information.
+
+The password must
+- be exactly 8 characters long
+- contain 1 upper case letter
+- contain 1 lower case letter
+- contain 1 number
+- contain 1 special character
+
+|sterling|
 
 `SunTrust <https://www.suntrust.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
